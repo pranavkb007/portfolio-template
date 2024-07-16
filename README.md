@@ -43,6 +43,9 @@ To set up the project locally, follow these steps:
 
 To customize the website with your own content, edit the following files:
 
-      - index.html - Update the HTML content with your own text and images.
-      - css/styles.css - Modify the CSS to change the styling.
-      - js/scripts.js - Update any custom JavaScript if needed.
+   - index.html - Update the HTML content with your own text and images.
+   - css/styles.css - Modify the CSS to change the styling.
+   - js/scripts.js - Update any custom JavaScript if needed.
+      
+      
+      
