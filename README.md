@@ -32,12 +32,14 @@ The website is created using the DevFolio Bootstrap template from BootstrapMade.
 To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
-      - git clone https://github.com/pranavkb007/portfolio-template
 
-2. **Navigate to the project directory:**
-      - cd portfolio-website
+            - git clone https://github.com/pranavkb007/portfolio-template
 
-3. **Open index.html in your preferred browser to view the website.**
+3. **Navigate to the project directory:**
+      
+            - cd portfolio-website
+
+4. **Open index.html in your preferred browser to view the website.**
 
 ## Customization
 
